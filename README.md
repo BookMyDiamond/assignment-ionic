@@ -1,4 +1,3 @@
-My Drive
 ## Building a Virtual Scrolling Web Application using Ionic Framework and React
 
 In this assignment, you will build a web application using [Ionic Framework](https://ionicframework.com/docs) and React that fetches data from a REST API provided by [JSONPlaceholder](https://jsonplaceholder.typicode.com/guide/) and implements virtual scrolling to improve performance. 
